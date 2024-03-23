@@ -34,3 +34,16 @@ Through this program I realized that I really enjoy cleaning, modelling and
 analyzing client data, creating slides to communicate findings and presenting
 insights back to the client. I would love to apply what I've learned in
 a diverse project team at a company like Accenture. 
+
+# Skills
+Communication
+Data Analysis
+Data Modeling
+Data Understanding
+Data Visualization
+Presentations
+Project Planning
+Public Speaking
+Storytelling
+Strategy
+Teamwork
